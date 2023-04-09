@@ -46,3 +46,5 @@ Types in the Schema
 ● Add fields to the Query Type
 
 ● Create Resolvers that for the fields
+
+> GraphQL is a strongly typed Query Language if any condition doesn't satisfy. It's gonna break.
