@@ -39,3 +39,10 @@ create data
 A Type on a Schema that defines operations clients can
 perform to access data that resembles the shape of the other
 Types in the Schema
+
+## Creating Queries
+● Create Query Type in the Schema using SDL
+
+● Add fields to the Query Type
+
+● Create Resolvers that for the fields
