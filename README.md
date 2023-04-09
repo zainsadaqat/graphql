@@ -12,3 +12,7 @@
 ● Composition
 ● Schema
  
+## Client Side
+● Queries
+● Mutations
+● Fragments
