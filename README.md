@@ -17,7 +17,7 @@
 ● Mutations
 ● Fragments
 
-##Creating a Schema
+## Creating a Schema
 ● Using Schema Definition Language (SDL)
 ● Programmatically Creating a Schema using language
 constructs
