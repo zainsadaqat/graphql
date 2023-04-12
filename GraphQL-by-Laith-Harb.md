@@ -5,5 +5,24 @@
  
  
 > Over Fetching means, GraphQL prevents fetching unnecessary data
+```js
+Query {
+ type Products {
+   name
+   image
+ }
+}
+```
 
 > Under Fetching means, GraphQL supports fetching data from multiple endpoints at the same time
+
+```js
+Query {
+ type Category(id:1) {
+  type Products {
+    name
+    image
+   }
+ }
+}
+```
