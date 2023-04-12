@@ -5,4 +5,5 @@
  
  
 > Over Fetching means, GraphQL prevents fetching unnecessary data
-> Under Fetching means, GraphQL supports fetching the data that we are not getting
+
+> Under Fetching means, GraphQL supports fetching data from multiple endpoints at the same time
