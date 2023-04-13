@@ -52,4 +52,4 @@ fruits: () => {
 
 GraphQL has two types:
 1. Scalar (String, Int, Float, Boolean, !, Array of Strings, Array of Booleans, Array of Int, Array of Floats)
-2. Object 
+2. Object (when we want to use multiple types at the same time)
