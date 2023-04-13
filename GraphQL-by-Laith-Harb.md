@@ -43,6 +43,8 @@ It's a way how our data is gonna look like
 ```
 fruits: [String]
 ```
+> TypeDefs is a place where we define the structure of our data.
+
 ### Resolver
 ```
 fruits: () => {
