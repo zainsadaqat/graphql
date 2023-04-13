@@ -28,6 +28,11 @@ Query {
 }
 ```
 
+## Installation
+```
+npm isntall apollo-server graphql
+```
+
 ## GraphQL Server
 In order to create a GraphQL server, we need to specify two things: 
 1. Schema (Type Definition)
@@ -44,3 +49,7 @@ fruits: () => {
  return ["Oranges", "Mangoes"]
 }
 ```
+
+GraphQL has two types:
+1. Scalar (String, Int, Float, Boolean, !, Array of Strings, Array of Booleans, Array of Int, Array of Floats)
+2. Object 
