@@ -57,4 +57,4 @@ GraphQL has two types:
 2. Object (when we want to use multiple types at the same time) 
 
 ## Mutation
- 
+  
