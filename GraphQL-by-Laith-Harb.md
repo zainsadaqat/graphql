@@ -45,7 +45,7 @@ fruits: [String]
 ```
 > TypeDefs is a place where we define the structure of our data.
 
-### Resolver
+### Resolver 
 ```
 fruits: () => {
  return ["Oranges", "Mangoes"]
