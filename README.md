@@ -1,6 +1,6 @@
 # GraphQL
 
-- Apollo Client 
+- Apollo Client
 - NodeJS    
   
    
