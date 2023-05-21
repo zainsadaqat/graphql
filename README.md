@@ -4,7 +4,7 @@
 - NodeJS    
   
    
-## Server Side 
+## Server Side
 ● Type Definitions
 ● Resolvers
 ● Query Definitions
